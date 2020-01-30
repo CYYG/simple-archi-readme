@@ -8,5 +8,5 @@
 
 ## Scénarios des cas complexes
 
-* [Import et indexation d'un catalogue produit](.scenarios/products_import_index.md)
+* [Import et indexation d'un catalogue produit](./scenarios/products_import_index.md)
 * ...
