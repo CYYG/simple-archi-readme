@@ -3,7 +3,7 @@
 
 Ce README est un exemple de documentation d'application afin de comprendre son activité, les informations et services dont elle a besoin, les messages qu'elle envoit ainsi que les informations qu'elle expose.
 
-L'exemple d'application ici est une application de gestion d'offre commerciale. 
+L'exemple d'application ici est une application de gestion de produit qui est une source de l'application D'[Offre](https://github.com/CYYG/simple-archi-readme). 
 
 ## Domaine de responsabilité
 
@@ -29,9 +29,6 @@ L'exemple d'application ici est une application de gestion d'offre commerciale.
 ### Dépendances
 Application source | Information/Service consommé | Format utilisé | Type de flux
 --- | --- | --- | ---
-[Produits] | Liste des produits | HTTP/JSON | Async batch
-[Produits] | Détail d'un produit | HTTP/JSON | Sync
-[Produits] | Variantes d'un produit | HTPP/JSON | Sync
 [Fournisseurs] | Liste de fournisseurs | HTTP/JSON | Async batch
 [Fournisseurs] | Détail d'un fournisseur | HTTP/JSON | Sync
 
