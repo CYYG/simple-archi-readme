@@ -8,6 +8,7 @@ L'exemple d'application ici est une application de gestion de produit qui est un
 ## Domaine de responsabilité
 
 > [Architecture applicative](./architecture)
+> [ADR](./adr)
 
 ### Données référentes
 
