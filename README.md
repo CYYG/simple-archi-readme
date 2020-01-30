@@ -20,7 +20,7 @@ L'exemple d'application ici est une application de gestion d'offre commerciale.
 * [Produits]
 * [Fournisseurs]
 
-[Produits]: https://github.com/CYYG/simple-archi-readme/exemple_app_produits
+[Produits]: https://github.com/CYYG/simple-archi-readme/tree/master/exemple_app_produits
 [Fournisseurs]: https://github.com/CYYG/simple-archi-readme
 
 ### Applications cible
