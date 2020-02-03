@@ -5,7 +5,7 @@ Ce README est un exemple de documentation d'application afin de comprendre son a
 
 L'exemple d'application ici est une application de gestion d'offre commerciale. 
 
-## Domaine de responsabilité
+## Domaine de responsabilité et dépendances
 
 ### Données référentes
 
@@ -54,5 +54,5 @@ Détail d'une offre | HTTP/JSON
 API Ref: _**TODO:** lien Swagger ou ReDoc_
 
 ## Détails de l'application
-> [Architecture applicative](./architecture)
-> [ADR (Architecture Decision Record)](./adr)
+* [Architecture applicative](./architecture)
+* [ADR (Architecture Decision Record)](./adr)
