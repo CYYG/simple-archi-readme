@@ -7,8 +7,6 @@ L'exemple d'application ici est une application de gestion d'offre commerciale.
 
 ## Domaine de responsabilité
 
-> [Architecture applicative](./architecture)
-
 ### Données référentes
 
 **Offre**
@@ -30,7 +28,7 @@ L'exemple d'application ici est une application de gestion d'offre commerciale.
 [Catalogue]: https://github.com/CYYG/simple-archi-readme
 [Gestion documentaire]: https://github.com/CYYG/simple-archi-readme
 
-## Flux d'information entrant et sortant
+## Flux d'informations entrants et sortants
 
 ### Dépendances
 Application source | Information/Service consommé | Format utilisé | Type de flux
@@ -52,3 +50,9 @@ Information/service | format
 --- | --- 
 Liste des offres d'un fournisseur | HTTP/JSON, FTP/CSV HTTP/CSV
 Détail d'une offre | HTTP/JSON
+
+API Ref: _**TODO:** lien Swagger ou ReDoc_
+
+## Détails de l'application
+> [Architecture applicative](./architecture)
+> [ADR (Architecture Decision Record)](./adr)
