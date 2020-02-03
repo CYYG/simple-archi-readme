@@ -9,4 +9,5 @@
 ![Scenario produit](./products_import_index.png)
 
 [Outil: draw.io](https://www.draw.io/)
+
 [Fichier source: ./products_import_index.drawio](./products_import_index.drawio)
